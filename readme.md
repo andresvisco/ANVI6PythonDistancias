@@ -3,4 +3,5 @@
 Proyecto en curso que se utiliza para medir distancias relativas al objeto mas a la izquierda de la imagen y conociendo su ancho 
 real en pulgadas
 
+![alt text](https://raw.githubusercontent.com/andresvisco/ANVI6PythonDistancias/Captura.png)
 
