@@ -23,9 +23,9 @@ ap.add_argument("-w", "--width", type=float, required=False,
 	help="ancho del objeto mas a la izquierda")
 args = vars(ap.parse_args())
 
-imagen = "IMG_6098.JPG"
-width = 1.258
-#width=78.9
+imagen = "trafico1.jpg"
+#width = 1.258
+width=78.9
 
 image = cv2.imread(imagen)
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
